@@ -1,3 +1,3 @@
 # monopoly
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/enfantme/monopoly)
+Vous permet de jouer au monopoly sans billet !
